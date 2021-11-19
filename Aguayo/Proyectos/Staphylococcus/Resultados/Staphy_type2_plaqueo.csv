@@ -1,0 +1,57 @@
+Specie	Strain	IsolatedOrigin	MitomicynEffect	Medium	Time	GrowthInhibition	LysatePlaque
+S.aureus	20046457	INCMNSZ	2	LB	6h	TRUE	TRUE
+S.aureus	20064076	INCMNSZ	2	LB	6h	TRUE	TRUE
+S.aureus	20064077	INCMNSZ	2	LB	6h	TRUE	TRUE
+S.aureus	20066801	INCMNSZ	2	LB	6h	TRUE	TRUE
+S.aureus	HDF022	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	HDF024	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	HDF030	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	HDF033	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INC038	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INC039	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INC051	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INC053	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INC059	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INC061	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INC066	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INC069	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 1004	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INPER 1021	Fac.med	2	LB	6h	TRUE	TRUE
+S.aureus	INPER 858	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 883	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 884	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 892	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 923	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER  924	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 931	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 950	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 952	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	INPER 980	Fac.med	2	LB	6h	TRUE	FALSE
+S.aureus	20046457	INCMNSZ	2	PY	6h	TRUE	TRUE
+S.aureus	20064076	INCMNSZ	2	PY	6h	TRUE	TRUE
+S.aureus	20064077	INCMNSZ	2	PY	6h	TRUE	TRUE
+S.aureus	20066801	INCMNSZ	2	PY	6h	TRUE	FALSE
+S.aureus	HDF022	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	HDF024	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	HDF030	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	HDF033	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INC038	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INC039	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INC051	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INC053	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INC059	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INC061	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INC066	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INC069	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 1004	Fac.med	2	PY	6h	TRUE	TRUE
+S.aureus	INPER 1021	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 858	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 883	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 884	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 892	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 923	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER  924	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 931	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 950	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 952	Fac.med	2	PY	6h	TRUE	FALSE
+S.aureus	INPER 980	Fac.med	2	PY	6h	TRUE	FALSE
